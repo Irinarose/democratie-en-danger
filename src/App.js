@@ -90,15 +90,15 @@ function App() {
             <h3>Visioconférences en direct et en replay</h3>
             <p>Liste des visioconférences (thématiques : actualité, historique, fond) :</p>
             <ul>
-              <li><a href="#">Conférence sur la Russie par Françoise Thom (Replay)</a></li>
-              <li><a href="#">Débat live sur l’Ukraine avec Jean Sylvestre Montgrenier</a></li>
+              <li><a href="https://www.youtube.com/watch?v=example1" target="_blank" rel="noopener noreferrer">Conférence sur la Russie par Françoise Thom (Replay)</a></li>
+              <li><a href="https://www.youtube.com/watch?v=example2" target="_blank" rel="noopener noreferrer">Débat live sur l’Ukraine avec Jean Sylvestre Montgrenier</a></li>
             </ul>
 
             <h3>Liens vers des vidéos existantes</h3>
             <p>Liens vers YouTube, TikTok, Facebook, etc. :</p>
             <ul>
-              <li><a href="https://www.youtube.com" target="_blank">Analyse de Rudy Reichstadt sur la désinformation</a></li>
-              <li><a href="https://www.tiktok.com" target="_blank">Clip sur les menaces militaires</a></li>
+              <li><a href="https://www.youtube.com/watch?v=example3" target="_blank" rel="noopener noreferrer">Analyse de Rudy Reichstadt sur la désinformation</a></li>
+              <li><a href="https://www.tiktok.com/@example/video123" target="_blank" rel="noopener noreferrer">Clip sur les menaces militaires</a></li>
             </ul>
           </div>
         )}
@@ -108,22 +108,22 @@ function App() {
             <h2>Ressources</h2>
             <h3>Bibliographie</h3>
             <ul>
-              <li>*L’opium des imbéciles* – Rudy Reichstadt (Grasset, 2019)</li>
-              <li>*Comprendre le poutinisme* – Françoise Thom (Desclée De Brouwer, 2018)</li>
-              <li><a href="https://desk-russie.eu/" target="_blank">Desk Russie</a> – Ressources sur la Russie</li>
+              <li><a href="https://www.amazon.com/L-opium-des-imbeciles/dp/224682177X" target="_blank" rel="noopener noreferrer">*L’opium des imbéciles* – Rudy Reichstadt (Grasset, 2019)</a></li>
+              <li><a href="https://www.amazon.com/Comprendre-le-poutinisme/dp/2220094954" target="_blank" rel="noopener noreferrer">*Comprendre le poutinisme* – Françoise Thom (Desclée De Brouwer, 2018)</a></li>
+              <li><a href="https://desk-russie.eu/" target="_blank" rel="noopener noreferrer">Desk Russie</a> – Ressources sur la Russie</li>
             </ul>
 
             <h3>Capsules de présentation</h3>
             <p>Présentations de livres, films, reportages :</p>
             <ul>
-              <li>Extrait d’interview de Françoise Thom sur *Géopolitique de la Russie*</li>
-              <li>Clip d’un reportage sur l’Ukraine</li>
+              <li><a href="https://www.youtube.com/watch?v=example4" target="_blank" rel="noopener noreferrer">Extrait d’interview de Françoise Thom sur *Géopolitique de la Russie*</a></li>
+              <li><a href="https://www.youtube.com/watch?v=example5" target="_blank" rel="noopener noreferrer">Clip d’un reportage sur l’Ukraine</a></li>
             </ul>
 
             <h3>MOOCs</h3>
             <p>Cours en ligne sur la démocratie et la géopolitique :</p>
             <ul>
-              <li><a href="https://www.coursera.org" target="_blank">MOOC sur la désinformation</a></li>
+              <li><a href="https://www.coursera.org/course/example" target="_blank" rel="noopener noreferrer">MOOC sur la désinformation</a></li>
             </ul>
           </div>
         )}
@@ -133,9 +133,9 @@ function App() {
             <h2>Événements</h2>
             <p>Agenda des conférences internes et externes :</p>
             <ul>
-              <li>15/03/2025 – Conférence sur la Russie avec Françoise Thom</li>
-              <li>20/03/2025 – Débat live sur l’Ukraine (inscription)</li>
-              <li>Replay : Visite passée avec Cécile Vaissié</li>
+              <li>15/03/2025 – <a href="https://example.com/conference-russie" target="_blank" rel="noopener noreferrer">Conférence sur la Russie avec Françoise Thom</a></li>
+              <li>20/03/2025 – <a href="https://example.com/debat-ukraine" target="_blank" rel="noopener noreferrer">Débat live sur l’Ukraine (inscription)</a></li>
+              <li>Replay : <a href="https://example.com/replay-vaissie" target="_blank" rel="noopener noreferrer">Visite passée avec Cécile Vaissié</a></li>
             </ul>
           </div>
         )}
@@ -145,8 +145,8 @@ function App() {
             <h2>Blog "Veille Démocratique"</h2>
             <p>Articles hebdomadaires sur les menaces à la démocratie :</p>
             <ul>
-              <li><a href="#">Menaces militaires : Analyse de Poutine – 10/02/2025</a></li>
-              <li><a href="#">Désinformation en 2025 : Le rôle des réseaux sociaux</a></li>
+              <li><a href="https://example.com/menaces-militaires" target="_blank" rel="noopener noreferrer">Menaces militaires : Analyse de Poutine – 10/02/2025</a></li>
+              <li><a href="https://example.com/desinformation-2025" target="_blank" rel="noopener noreferrer">Désinformation en 2025 : Le rôle des réseaux sociaux</a></li>
             </ul>
           </div>
         )}
