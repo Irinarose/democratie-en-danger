@@ -1,0 +1,109 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #1a73e8;
+  font-size: 2.5em;
+}
+
+header p {
+  color: #555;
+  font-size: 1.2em;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #1a73e8;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+nav button:hover {
+  background-color: #1557b0;
+}
+
+nav button.active {
+  background-color: #0d47a1;
+}
+
+.welcome-image img {
+  width: 100%;
+  max-width: 800px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.content {
+  margin-bottom: 20px;
+}
+
+.content h2 {
+  color: #1a73e8;
+  margin-bottom: 15px;
+}
+
+.content p {
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: justify;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.content a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+iframe {
+  margin: 20px 0;
+}
+
+textarea {
+  width: 100%;
+  max-width: 500px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #1a73e8;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1557b0;
+}
